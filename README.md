@@ -3,8 +3,8 @@ This Streamlit app uses Google Generative AI to analyze images containing text i
 
 Features:
 
-Upload images (JPG, JPEG, PNG) for analysis
-Automatic description and summary generation in English
-Translation of text from various languages to English
-Interactive question box for custom queries about the image
-Error handling for unsupported or unclear image content
+1. Upload images (JPG, JPEG, PNG) for analysis
+2. Automatic description and summary generation in English
+3. Translation of text from various languages to English
+4. Interactive question box for custom queries about the image
+5. Error handling for unsupported or unclear image content
